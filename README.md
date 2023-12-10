@@ -25,7 +25,7 @@ I'm determined to aggressively complete end-to-end ML projects of various kinds 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosdownload.com%2Flogo%2Fscikit-learn-logo-big.png&f=1&nofb=1&ipt=dc8109c7270108f1039f351c0c19e173c3f752eb44eb1b66c3559e7a6605ed06&ipo=images" title="scikit-learn" alt="scikit-learn" width="50" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp; 
   <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4" title="Optuna" alt="Optuna" width="40" height="40"/>&nbsp; 
-  <img src="https://coffeeanddata.ca/assets/images/posts/20190429/mlflow.jpeg#center" title="mlflow" alt="mlflow" width="55" height="40"/>&nbsp; 
+  <img src="https://coffeeanddata.ca/assets/images/posts/20190429/mlflow.jpeg#center" title="mlflow" alt="mlflow" width="60" height="40"/>&nbsp; 
   <img src="https://image.pngaaa.com/311/6854311-middle.png" title="Hopsworks" alt="Hopsworks" width="50" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;

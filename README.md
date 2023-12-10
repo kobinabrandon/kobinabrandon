@@ -16,5 +16,6 @@ I'm determined to aggressively complete end-to-end ML projects of various kinds 
 - 📫 Contact me at: maadabrandon@protonmail.com
 
 
+
 ### :hammer_and_wrench: Languages and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)

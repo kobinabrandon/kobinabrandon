@@ -26,7 +26,7 @@ I'm determined to aggressively complete end-to-end ML projects of various kinds 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp; 
   <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4" title="Optuna" alt="Optuna" width="40" height="40"/>&nbsp; 
   <img src="https://coffeeanddata.ca/assets/images/posts/20190429/mlflow.jpeg#center" title="mlflow" alt="mlflow" width="55" height="40"/>&nbsp; 
-  <img src="https://image.pngaaa.com/311/6854311-middle.png" title="Hopsworks" alt="Hopsworks" width="40" height="50"/>&nbsp; 
+  <img src="https://image.pngaaa.com/311/6854311-middle.png" title="Hopsworks" alt="Hopsworks" width="50" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>

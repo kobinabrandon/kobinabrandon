@@ -13,7 +13,7 @@ I'm determined to aggressively complete end-to-end ML projects of various kinds 
    
 - 👯 At this time, I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures, and methods as possible.
 
-- 📫 Contact me at: maadabrandon@protonmail.com  
+- 📫 Contact me at: maadabrandon@protonmail.com \\ \\
 
 
 

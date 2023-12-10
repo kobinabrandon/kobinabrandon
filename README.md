@@ -11,14 +11,18 @@ I'm determined to aggressively complete end-to-end ML projects of various kinds 
 
 - 🌱 No matter how accurate a model is, it has no business value if it hasn't been deployed as a useable service which displays actionable predictions in a manner that is appealing and easy to understand. I’m currently learning different methods of doing exactly that.
    
-- 👯 I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures, and methods as possible.
+- 👯 At this time, I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures, and methods as possible.
 
 - 📫 Contact me at: maadabrandon@protonmail.com
 
 
 
 ### :hammer_and_wrench: Languages and Tools
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="  https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>

@@ -1,4 +1,4 @@
-### Hello 👋
+### Who am I? 
 
 I'm Kobina, and I'm a mathematician who's aspiring to be an excellent Machine Learning Engineer (MLE). 
 
@@ -6,7 +6,7 @@ I have Ghanaian, Sierra Leonean and British heritage, and I'm deeply interested 
 
 I'm determined to aggressively complete end-to-end ML projects of various kinds until I am as close to being one of the best MLEs on the continent as I can be.
 
-### : Projects & Interests
+### Ongoing Projects & Interests
 - 🔭 I’m currently working on a Streamlit web application that predicts user demand for a bike-sharing service in the Chicago area, and provide relevant analytics.
 
 - 🌱 No matter how accurate a model is, it has no business value if it hasn't been deployed as a useable service which displays actionable predictions in a manner that is appealing and easy to understand. I’m currently learning different methods of doing exactly that.

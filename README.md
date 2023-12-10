@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I'm Kobina, and I'm a mathematician who's aspiring to be an excellent Machine Learning Engineer (MLE). I have Ghanaian, Sierra Leonean and British heritage, and I'm deeply interested in applying my growing skills in machine learning development to the scientific, technological, and economic advancement of the African continent and its people. 
 
@@ -11,4 +11,3 @@ Barring some personal catastrophe, I'm not going to completing end-to-end ML pro
 - 👯 I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures, and methods as possible.
 
 - 📫 Contact me at: maadabrandon@protonmail.com
--->

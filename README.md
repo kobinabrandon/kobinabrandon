@@ -11,7 +11,7 @@ I'm determined to aggressively complete end-to-end ML projects of various kinds 
 
 - 🌱 No matter how accurate a model is, it has no business value if it hasn't been deployed as a useable service which displays actionable predictions in a manner that is appealing and easy to understand. I’m currently learning different methods of doing exactly that.
    
-- 👯 At this time, I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures, and methods as possible.
+- 👯 At this time, I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures and tools as possible.
 
 - 📫 Contact me at: maadabrandon@protonmail.com 
 

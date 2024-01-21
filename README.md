@@ -1,10 +1,10 @@
 ### Who am I? 
 
-I'm Kobina, and I'm a mathematician who's aspiring to be an excellent Machine Learning Engineer (MLE). 
+I'm a mathematician who's aspiring to be an excellent Machine Learning Engineer (MLE). 
 
-I have Ghanaian, Sierra Leonean and British heritage, and I'm deeply interested in applying my growing skills in machine learning development to the scientific, technological, and economic advancement of the African continent and its people. 
+I have Ghanaian, Sierra Leonean and British heritage, and I'm deeply interested in applying my growing skills in machine learning development to the scientific, technological, and economic advancement of the African continent and its people. More generally, I want to build systems that make life slightly more pleasant, and less uncertain for the average person, while respecting their automomy and privacy. I hold fast to this desire because above all other technologies, machine learning models have the ability to turn our world into a dystopian hellhole if they are used in the wrong areas, and I think that MLEs should be cognisant of that fact when selecting projects and jobs.
 
-I'm determined to aggressively complete end-to-end ML projects of various kinds in my quest to be the best MLE I can be.
+I'm determined to complete end-to-end ML projects of various kinds in my quest to be the best MLE I can be, and I hope you would be interested in watching my progress.
 
 ### Ongoing Projects & Interests
 - 🔭 I’m currently working on a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service, and provides relevant analytics.

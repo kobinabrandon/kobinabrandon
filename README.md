@@ -1,6 +1,10 @@
 ### Who am I? 
 
-I'm a mathematician who's aspiring to be an excellent Machine Learning Engineer (MLE). Why did I choose this career path? I did a PhD in Maths (Algebraic Geometry) and decided, that, despite my love for teaching, a career in academia wasn't for me, and that I'd rather build things that:
+I'm a mathematician who's aspiring to be an excellent Machine Learning Engineer (MLE). 
+
+### Why did I choose this career path? 
+
+I did a PhD in Maths (Algebraic Geometry) and decided, that, despite my love for teaching, a career in academia wasn't for me, and that I'd rather build things that:
  
 - make me money by making someone else even more money.
 - provide people and businesses a little bit more certainty in an uncertain world via predictive models.

@@ -7,7 +7,6 @@ I'm a mathematician who's aspiring to be an excellent Machine Learning Engineer 
 I did a PhD in Maths (Algebraic Geometry) and decided, that, despite my love for teaching, a career in academia wasn't for me, and that I'd rather build things that:
  
 - make me money by making someone else even more money.
-- provide people and businesses a little bit more certainty in an uncertain world via predictive models.
 - make use of my mathematical and statistical knowledge.
 
 I have Ghanaian, Sierra Leonean and British heritage, and I'm deeply interested in applying my growing skills in machine learning development to the scientific, technological, and economic advancement of the African continent and its people. 

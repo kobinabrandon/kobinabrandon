@@ -9,7 +9,7 @@ I did a PhD in Maths (Algebraic Geometry) and decided, that a career in academia
 - make me money by making someone else even more money.
 - make use of my mathematical and statistical knowledge.
 
-I have Ghanaian, Sierra Leonean and British heritage, and I would also like to somehow apply my budding skills to contribute in some small way to the scientific, technological, and economic advancement of the African continent and its people. 
+I am of Ghanaian, Sierra Leonean and British heritage, and I would also like to somehow apply my budding skills to contribute in some small way to the scientific, technological, and economic advancement of the African continent and its people. 
 
 One thing that does worry me is that above all other technologies, m`achine learning models have the ability to turn our world into a dystopian hellhole if they are used in the wrong areas, and I think that MLEs should be cognisant of that fact when selecting projects and jobs.
 

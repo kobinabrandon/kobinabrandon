@@ -9,11 +9,11 @@ I did a PhD in Maths (Algebraic Geometry) and decided, that a career in academia
 - make me money by making someone else even more money.
 - make use of my mathematical and statistical knowledge.
 
-I have Ghanaian, Sierra Leonean and British heritage, and I'm deeply interested in applying my growing skills in machine learning development to the scientific, technological, and economic advancement of the African continent and its people. 
+I have Ghanaian, Sierra Leonean and British heritage, and I would also like to somehow apply my budding skills to contribute in some small way to the scientific, technological, and economic advancement of the African continent and its people. 
 
-More generally, I want to build systems that make life slightly more pleasant, and less uncertain for the average person, while respecting their automomy and privacy. I hold fast to this desire because above all other technologies, machine learning models have the ability to turn our world into a dystopian hellhole if they are used in the wrong areas, and I think that MLEs should be cognisant of that fact when selecting projects and jobs.
+One thing that does worry me is that above all other technologies, m`achine learning models have the ability to turn our world into a dystopian hellhole if they are used in the wrong areas, and I think that MLEs should be cognisant of that fact when selecting projects and jobs.
 
-I'm determined to complete end-to-end ML projects of various kinds to grow my skills, and I hope you would be interested in watching my progress.
+I'm determined to complete end-to-end ML projects of various kinds to grow my skills.
 
 ### Ongoing Projects & Interests
 - 🔭 I’m currently working on a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service, and provides relevant analytics.

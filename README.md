@@ -8,12 +8,15 @@ I did a PhD in Maths (Algebraic Geometry) and decided that a career in academia 
 
 I am of Ghanaian, Sierra Leonean and British heritage, and I would also like to somehow apply my budding skills to contribute in some small way to the scientific, technological, and economic advancement of the African continent and its people. 
 
-One thing that does worry me is that above all other technologies, machine learning models have the ability to turn our world into a dystopian hellhole depending on how they are used, and I think that MLEs should be cognisant of that fact when selecting projects and jobs.
+With that being said, I think that above all other technologies, machine learning models have the ability to turn our world into a dystopian hellhole depending on how they are used, and I think that MLEs should be cognisant of that when selecting projects and jobs.
 
 I'm determined to complete end-to-end ML projects of various kinds to grow my skills.
 
 ### Ongoing Projects & Interests
-- 🔭 I’m currently working on a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service, and provides relevant analytics.
+- 🔭 I’m currently working on:
+   -  a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service.
+   -  deploying an exchange rate prediction service as a REST API. I'm learning about FastAPI for this reason.
+   -  creating and deploying a real-time exchange rate data pipeline. My hope is to leverage this project into a way for me to learn how to build         real-time machine learning systems.
 
 - 🌱 No matter how accurate a model is, it has no business value if it hasn't been deployed as a useable service which displays actionable predictions in a manner that is appealing and easy to understand. I’m currently learning different methods of doing exactly that.
    

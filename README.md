@@ -22,8 +22,6 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
    
 - 👯 At this time, I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures and tools as possible.
 
-- 📫 Contact me at: maadabrandon@protonmail.com 
-
 
 
 ### :hammer_and_wrench: Languages and Tools

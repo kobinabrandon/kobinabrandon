@@ -1,6 +1,6 @@
 ### Who am I? 
 
-I'm a mathematician who's aspiring to be an excellent Machine Learning Engineer (MLE). 
+I'm a mathematician who's aspiring to be a Machine Learning Engineer (MLE). 
 
 ### Why did I choose this career path? 
 

@@ -18,7 +18,7 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
    -  deploying an exchange rate prediction service as a REST API. I'm learning about FastAPI for this reason.
 
 ### Current Learning Objectives
-- Achieve "intermediate" proficiency (whatever that means) with Pytorch. I already know some Tensorflow, but I've decided to switch to Pytorch.
+- Achieve "intermediate" proficiency (whatever that means) in Pytorch. I already know some Tensorflow, but I've decided to switch libraries.
 - Learn about some of the more advanced neural network architectures, such as GANs and transformers, and use them to make cool stuff.
 - Learn about model deployment on AWS and GCP.
 - Start reading deep learning papers for fun.

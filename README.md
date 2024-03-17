@@ -12,7 +12,7 @@ With that being said, I think that above all other technologies, machine learnin
 
 I'm determined to complete end-to-end ML projects of various kinds to grow my skills.
 
-### Ongoing Projects & Interests
+### Ongoing Projects 
 - 🔭 I’m currently working on:
    -  a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service.
    -  deploying an exchange rate prediction service as a REST API. I'm learning about FastAPI for this reason.

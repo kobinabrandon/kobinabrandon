@@ -16,7 +16,12 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
 - 🔭 I’m currently working on:
    -  a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service.
    -  deploying an exchange rate prediction service as a REST API. I'm learning about FastAPI for this reason.
-   -  creating and deploying a real-time exchange rate data pipeline. My hope is to leverage this project into a way for me to learn how to build real-time machine learning systems.
+
+### Current Learning Objectives
+- I know some Tensorflow, however, I've decided to focus on using Pytorch instead.
+- Learn to deploy my ML applications to AWS and GCP.
+- Learn about some of the more advanced neural network architectures, such as GANs and transformers, and use them to make cool stuff.
+- Start reading deep learning papers for fun.
 
 - 🌱 No matter how accurate a model is, it has no business value if it hasn't been deployed as a useable service which displays actionable predictions in a manner that is appealing and easy to understand. I’m currently learning different methods of doing exactly that.
    

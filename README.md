@@ -6,7 +6,7 @@ I'm a mathematician who's aspiring to be a Machine Learning Engineer (MLE).
 
 I did a PhD in Maths (Algebraic Geometry) and decided that a career in academia wasn't for me, and that I'd rather make use of my mathematical and statistical knowledge to build things that make me money by making even more money for other people.
 
-I am of Ghanaian, Sierra Leonean and British heritage, and I would also like to somehow apply my budding skills to contribute in some small way to the scientific, technological, and economic advancement of the African continent and its people. 
+I am of Ghanaian, Sierra Leonean and British heritage, and beyond my personal goals, I would like to somehow apply my budding skills to contribute in some small way to the scientific, technological, and economic advancement of the African continent and its people. 
 
 With that being said, I think that above all other technologies, machine learning models have the ability to turn our world into a dystopian hellhole depending on how they are used, and I think that MLEs should be cognisant of that when selecting projects and jobs.
 

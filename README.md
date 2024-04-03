@@ -22,7 +22,7 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
 - Become more proficient in Pytorch. I initially learned to build some networks with Keras in Tensorflow, but I've decided to switch libraries. 
 - Learn about some of the more advanced neural network architectures, such as GANs and transformers, and use them to make cool stuff.
 - Learn about model deployment on AWS and GCP.
-- Start reading deep learning papers for fun.
+- Start reading deep learning papers.
    
 
 👯 I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning rchitecturesa and tools as possible.

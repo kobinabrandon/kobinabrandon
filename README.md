@@ -25,7 +25,7 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
 - Start reading deep learning papers.
    
 
-👯 I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning rchitecturesa and tools as possible.
+👯 I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures and tools as possible.
 
 
 

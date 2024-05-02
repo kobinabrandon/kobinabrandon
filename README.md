@@ -40,5 +40,4 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
   <img src="https://www.comet.com/images/logo_comet_light.png" title="CometML" alt="Comet" width="60" height="40"/>&nbsp; 
   <img src="https://image.pngaaa.com/311/6854311-middle.png" title="Hopsworks" alt="Hopsworks" width="50" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>

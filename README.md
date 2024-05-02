@@ -16,7 +16,7 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
 - 🔭 I’m currently working on:
    -  a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service.
    -  creating and deploying an exchange rate prediction service as a REST API. The purpose of this project is to force me to become familiar with FastAPI.
-   -  creating a service that receives a picture of a mushroom, and identifies its genus, and eventually its species. I'm using this project to force myself to transition to Pytorch and delve deeper into deep learning. I expect that it will be the first of many deep learning projects (I have an eye on learning some of the more advanced network types and archictectures).
+   -  creating a service that receives a picture of a mushroom, and identifies its genus, and eventually its species. I'm using this project to force myself to transition to Pytorch and delve deeper into deep learning (I had used Tensorflow before, but Pytorch appeals to me a great deal more). I have an eye on learning some of the more "advanced" network types and architectures as my skills (and my courage) grow.
 
 ### Current Learning Objectives
 - Become more proficient with Pytorch. I initially learned to build some networks with Keras in Tensorflow, but I've decided to switch libraries. 

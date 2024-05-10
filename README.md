@@ -20,7 +20,7 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
    -  a language translator which is based on a transformer model built from sratch using Pytorch.
 
 ### Current Learning Objectives
-- Learn about neural network architectures such as various GANs and transformers, and use them to make stuff.
+- Learn about various GANs, ConvNets, and transformers, and use them to make stuff.
 - Learn about model deployment on AWS and GCP.
 - Start reading deep learning papers.
    
@@ -32,7 +32,7 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
 ### :hammer_and_wrench: Languages and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp; 
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosdownload.com%2Flogo%2Fscikit-learn-logo-big.png&f=1&nofb=1&ipt=dc8109c7270108f1039f351c0c19e173c3f752eb44eb1b66c3559e7a6605ed06&ipo=images" title="scikit-learn" alt="scikit-learn" width="50" height="40"/>&nbsp; 
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosdownload.com%2Flogo%2Fscikit-learn-logo-big.png&f=1&nofb=1&ipt=dc8109c7270108f1039f351c0c19e173c3f752eb44eb1b66c3559e7a6605ed06&ipo=images" title="scikit-learn" alt="scikit-learn" width="40" height="35"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4" title="Optuna" alt="Optuna" width="40" height="40"/>&nbsp; 

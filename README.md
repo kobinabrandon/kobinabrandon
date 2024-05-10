@@ -20,7 +20,7 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
    -  a language translator which is based on a transformer model built from sratch using Pytorch.
 
 ### Current Learning Objectives
-- Learn about various GANs, ConvNets, and transformers, and use them to make stuff.
+- Learn about more about various GANs, ConvNets, and transformers, and use them to make stuff.
 - Learn about model deployment on AWS and GCP.
 - Start reading deep learning papers.
    

@@ -4,7 +4,7 @@ I'm a mathematician who's decided to become a Machine Learning Engineer (MLE).
 
 ### Why did I choose this career path? 
 
-I did a PhD in Maths (Algebraic Geometry), decided that a career in academia wasn't for me, and that I'd rather make use of my mathematical and statistical knowledge to build things that make me money by making even more money for other people.
+I acquired a PhD in Maths (Algebraic Geometry), decided that a career in academia wasn't for me, and that I'd rather make use of my mathematical and statistical background to build things that make me money by making even more money for other people.
 
 I am of Ghanaian, Sierra Leonean and British heritage, and beyond my personal professional goals, I would like to somehow apply my budding skills to contribute in some small way to the technological and economic advancement of the African continent and its people. 
 

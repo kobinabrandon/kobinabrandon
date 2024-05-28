@@ -8,7 +8,7 @@ I acquired a PhD in Maths (Algebraic Geometry), decided that a career in academi
 
 I am of Ghanaian, Sierra Leonean and British heritage, and beyond my personal professional goals, I would like to somehow apply my budding skills to contribute in some small way to the technological and economic advancement of the African continent and its people. 
 
-With that being said, I think that above all other technologies, machine learning models have the ability to turn our world into a dystopian hellhole depending on how they are used, and I think that MLEs should be cognisant of that when selecting projects and jobs.
+I believe that machine learning applications have a greater potential to turn this world into a dystopian hellhole than any other currently existing technology. There is already long and recorded history of various proprietary programs being used to secretly surveil and exploit us, and these surveillance capabilities are definitely being supercharged by numerous machine learning microservices to profile and pigeonhole us in various ways. For this reason, I think that open source machine learning development is vital to the privacy and security of the public, and that MLEs should be cognisant of the potentially destructive power that they wield when selecting projects and jobs.
 
 I'm determined to complete end-to-end ML projects of various kinds to grow my skills.
 
@@ -17,14 +17,13 @@ I'm determined to complete end-to-end ML projects of various kinds to grow my sk
    -  a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service.
    -  creating and deploying an exchange rate prediction service as a REST API. The purpose of this project is to force me to become familiar with FastAPI.
    -  creating a service that identifies the genus (and eventually the species) of a mushroom. I'm using this project to force myself to transition to Pytorch and delve deeper into deep learning (I had used Tensorflow before, but Pytorch appeals to me a great deal more). 
-   -  a language translator which is based on a transformer model built from sratch using Pytorch.
+   -  a language translator which is based on both pretrained transformers as well as one that I built from sratch using Pytorch.
 
 ### Current Learning Objectives
 - Learn about more about various GANs, ConvNets, and transformers, and use them to make stuff.
 - Learn about model deployment on AWS and GCP.
 - Start reading deep learning papers.
    
-
 👯 I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures and tools as possible.
 
 

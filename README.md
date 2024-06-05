@@ -1,22 +1,28 @@
 ### Who am I? 
 
-I'm a mathematician who's decided to become a Machine Learning Engineer (MLE).
+I'm a mathematician who's decided to become a Machine Learning Engineer (MLE). 
 
-### Why did I choose to pursue this? 
+### "Why did you choose to pursue this?" 
 
-I acquired a PhD in Maths (Algebraic Geometry), decided that a career in academia wasn't for me, and that I'd rather make use of my mathematical and statistical background to build things that make me money by making even more money for other people.
+I got a PhD in Maths (Algebraic Geometry), decided that a career in academia wasn't for me, and that I'd rather make use of my mathematical and statistical background to build things that make me money by making even more money for other people.
 
-I am of Ghanaian, Sierra Leonean and British heritage, and beyond my personal professional goals, I would like to somehow apply my budding skills to contribute in some small way to the technological and economic advancement of the African continent and its people. 
+### "Where do you come from?"
+I am of Ghanaian, Sierra Leonean and British heritage, and beyond my personal professional goals, I would like to somehow apply my budding skills to contribute in some small way to the technolog+ical and economic advancement of Africa. 
 
-I believe that machine learning applications have a greater potential to turn this world into a dystopian hellhole than any other currently existing technology. There is already long and recorded history of various proprietary programs being used to secretly surveil and exploit us, and these surveillance capabilities are definitely being supercharged by numerous machine learning microservices to profile and pigeonhole us in various ways. For this reason, I think that open source machine learning development is vital to the privacy and security of the public, and that MLEs should be cognisant of the potentially destructive power that they wield when selecting projects and jobs.
+### "AI is going to take all of our jobs, and it's behind the social media algorithms that are ruining my kids' attention spans. Why are you choosing to contribute to the problem?"
+Machine learning models, like all technologies can be used for deeply beneficial and destructive purposes. Currently, the world's gone a bit AI crazy, and people are looking to shoehorn machine learning into anything and everything. This is quite dangerous, because there is too much money being poured into making things, and not enough talk about what should and shouldn't be made.
 
-I'm determined to complete end-to-end ML projects of various kinds to grow my skills.
+#### The destructive side of AI
+I believe that the coming years will show that machine learning applications have a greater potential to turn this world into a dystopian hellhole than any other technology with the exception of nuclear weapons. There is already long and recorded history of various proprietary programs (state and corporate - same thing really) being used to secretly surveil and exploit us, and these surveillance capabilities are definitely being supercharged by numerous machine learning microservices to profile and pigeonhole us in various ways. For this reason, I think that MLEs should be cognisant of the potentially destructive power that they wield when selecting projects and jobs. I also think that free and open source (FOSS) machine learning development will become necessary for the privacy and security of the public, should enough MLEs pursue it.
+
+#### The bright side of AI 
+In the hands of skilled engineers, these models can be used in countless ways to enhance our ability to make timely, and informed decisions (if we use it wisely). For instance, I dream of a world where we weould have so much seismic and weather data (and such a deep understanding of it), that we will be able to predict the locations of catastrophic earthquakes weeks ahead of time. 
+
 
 ### Ongoing Projects 
 - 🔭 I’m currently working on:
    -  a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service.
-   -  creating and deploying an exchange rate prediction service as a REST API. The purpose of this project is to force me to become familiar with FastAPI.
-   -  creating a service that identifies the genus (and eventually the species) of a mushroom. I'm using this project to force myself to transition to Pytorch and delve deeper into deep learning (I had used Tensorflow before, but Pytorch appeals to me a great deal more). 
+   -  creating a service that identifies the genus (and eventually the species) of a mushroom. I'm using this project to force myself to transition to Pytorch and delve deeper into deep learning (I had used Tensorflow before, but I prefer Pytorch). 
    -  a language translator which is based on both pretrained transformers as well as one that I built from sratch using Pytorch.
 
 ### Current Learning Objectives

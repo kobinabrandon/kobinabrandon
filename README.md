@@ -2,7 +2,7 @@
 
 I'm a mathematician who's decided to become a Machine Learning Engineer (MLE).
 
-### Why did I choose this career path? 
+### Why did I choose to pursue this? 
 
 I acquired a PhD in Maths (Algebraic Geometry), decided that a career in academia wasn't for me, and that I'd rather make use of my mathematical and statistical background to build things that make me money by making even more money for other people.
 

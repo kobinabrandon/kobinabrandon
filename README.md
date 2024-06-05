@@ -1,4 +1,4 @@
-### Who am I? 
+### "Who am I?"
 
 I'm a mathematician who's decided to become a Machine Learning Engineer (MLE). 
 
@@ -27,8 +27,8 @@ In the hands of skilled engineers, these models can be used in countless ways to
 
 ### Current Learning Objectives
 - Learn about more about various GANs, ConvNets, and transformers, and use them to make stuff.
+- Start reading deep learning papers on a regular basis.
 - Learn about model deployment on AWS and GCP.
-- Start reading deep learning papers.
    
 👯 I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures and tools as possible.
 

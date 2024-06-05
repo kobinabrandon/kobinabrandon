@@ -12,10 +12,10 @@ I am of Ghanaian, Sierra Leonean and British heritage, and beyond my personal pr
 ### "AI is going to take all of our jobs, and it's behind the social media algorithms that are ruining my kids' attention spans. Why are you choosing to contribute to the problem?"
 Machine learning models, like all technologies can be used for deeply beneficial and destructive purposes. Currently, the world's gone a bit AI crazy, and people are looking to shoehorn machine learning into anything and everything. This is quite dangerous, because there is too much money being poured into making things, and not enough talk about what should and shouldn't be made.
 
-#### The destructive side of AI
+#### The Destructive Side of AI
 I believe that the coming years will show that machine learning applications have a greater potential to turn this world into a dystopian hellhole than any other technology with the exception of nuclear weapons. There is already long and recorded history of various proprietary programs (state and corporate - same thing really) being used to secretly surveil and exploit us, and these surveillance capabilities are definitely being supercharged by numerous machine learning microservices to profile and pigeonhole us in various ways. For this reason, I think that MLEs should be cognisant of the potentially destructive power that they wield when selecting projects and jobs. I also think that free and open source (FOSS) machine learning development will become necessary for the privacy and security of the public, should enough MLEs pursue it.
 
-#### The bright side of AI 
+#### The Bright Side of AI 
 In the hands of skilled engineers, these models can be used in countless ways to enhance our ability to make timely, and informed decisions (if we use it wisely). For instance, I dream of a world where we weould have so much seismic and weather data (and such a deep understanding of it), that we will be able to predict the locations of catastrophic earthquakes weeks ahead of time. 
 
 

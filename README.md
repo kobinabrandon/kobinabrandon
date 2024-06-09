@@ -1,4 +1,4 @@
-### "Who am you?"
+### "Who are you?"
 
 I'm a mathematician who's decided to become a Machine Learning Engineer (MLE). 
 

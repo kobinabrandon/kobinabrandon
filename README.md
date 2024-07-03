@@ -19,20 +19,6 @@ I believe that the coming years will show that machine learning applications hav
 In the hands of skilled **and wise** engineers, these models can be used in countless ways to enhance our ability to make timely, and informed decisions. For instance, I dream of a world where we would have so much seismic and weather data (and such a deep understanding of it), that we will be able to predict the locations of catastrophic earthquakes and storms weeks ahead of time. 
 
 
-### Ongoing Projects 
-- 🔭 I’m currently working on:
-   -  a Streamlit web application that predicts user demand for the City of Chicago's Divvy bike-sharing service.
-   -  creating a service that identifies the genus (and eventually the species) of a mushroom. I'm using this project to force myself to transition to Pytorch and delve deeper into deep learning (I had used Tensorflow before, but I prefer Pytorch). 
-   -  a language translator which is based on both pretrained transformers as well as one that I built from sratch using Pytorch.
-
-### Current Learning Objectives
-- Learn about more about various GANs, ConvNets, and transformers, and use them to make stuff.
-- Start reading deep learning papers on a regular basis.
-- Learn about model deployment on AWS and GCP.
-   
-👯 I’m open to collaborating with others on virtually any project, as I'm eager to learn about as many machine learning architectures and tools as possible.
-
-
 ### :hammer_and_wrench: Languages and Tools
   <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp; 

@@ -2,11 +2,11 @@
 
 I'm a mathematician who's decided to become a Machine Learning Engineer (MLE). 
 
-### "Why did you choose to pursue this?" 
-I did a PhD in Maths, decided that a career in academia wasn't for me, and that I'd rather make use of my analytical skills to build things that make me money by making even more money for other people.
-
 ### "Where do you come from?"
 I am of Ghanaian, Sierra Leonean and British heritage, and beyond my personal professional goals, I would like to somehow apply my budding skills to contribute in some small way to the technological and economic advancement of Africa. 
+
+### "Why did you choose to pursue this?" 
+I did a PhD in Maths, decided that a career in academia wasn't for me, and that I'd rather make use of my analytical skills to build things that make me money by making even more money for other people.
 
 ### "AI is going to take all of our jobs. Why are you choosing to contribute to the problem?"
 Machine learning models, like all technologies can be used for deeply beneficial and destructive purposes. **Currently, the world's gone a bit AI crazy, and people are looking to shoehorn machine learning into any and all software with minimal regard for the consequences. This is quite dangerous, because there is too much money being poured into making things, and not enough talk about what should and shouldn't be made. I hope we will become more circumspect in this regard, even if it affects the amount of work people like me get.**

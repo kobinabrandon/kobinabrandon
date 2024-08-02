@@ -12,7 +12,7 @@ I believe that the coming years will show that machine learning applications hav
 Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans. 
 
 ### Projects
-I'm currently engaged in building multiple open source end-to-end ML systems:
+I'm currently engaged in building multiple free and open source end-to-end ML systems (all licenced under GPLv3):
   - a batch ML service that provides hourly predictions for how many arrivals and departures will take place in Chicago's Divvy bike sharing system.
   - a machine translation service that uses pretrained transformers (and I'd like to experiment with building one from scratch).
   - a vision project that identifies mushrooms using images, and proceeds to provide further information on said mushroom.

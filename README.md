@@ -1,15 +1,7 @@
 ### Who am I?
-I'm Kobina, and I'm a budding Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage.
+I'm Kobina, and I'm a budding Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
 
-### Why ML?
 After studying mathematics for much of my early adult life, I decided that a career in academia wasn't for me, and that I'd rather build things that make me money by making even more money for other people.
-
-### My Views on Responsible ML System Development
-The world's gone a bit AI crazy, and people are looking to shoehorn machine learning into any and all software with minimal regard for the consequences. This is quite dangerous, because there's too much money being poured into making things, and not enough talk about what should and shouldn't be made. I hope we'll become more circumspect in this regard, even if it affects the amount of work that people like me get.
-
-I believe that the coming years will show that machine learning applications have a greater potential to turn this world into a dystopian hellhole than any other technology with the exception of nuclear weapons. There is already a long and recorded history of various proprietary programs being used to covertly surveil and exploit us, and these surveillance capabilities are being enhanced by machine learning microservices to profile and pigeonhole us in various ways. For this reason, I think that MLEs should be cognisant of the potentially destructive power that they wield. **I also think that free and open source (FOSS) machine learning development will very shortly become essential for the privacy and security of all mankind.**
-
-Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans. 
 
 ### Projects
 I'm currently engaged in building multiple free and open source end-to-end ML systems (all licenced under GPLv3):
@@ -17,6 +9,13 @@ I'm currently engaged in building multiple free and open source end-to-end ML sy
   - a machine translation service that uses pretrained transformers (and I'd like to experiment with building one from scratch).
   - a vision project that identifies mushrooms using images, and proceeds to provide further information on said mushroom.
   - a real-time service that is yet to be fully conceptualised.
+
+### My Views on Responsible ML System Development
+The world's gone a bit AI crazy, and people are looking to shoehorn machine learning into any and all software with minimal regard for the consequences. This is quite dangerous, because there's too much money being poured into making things, and not enough talk about what should and shouldn't be made. I hope we'll become more circumspect in this regard, even if it affects the amount of work that people like me get.
+
+I believe that the coming years will show that machine learning applications have a greater potential to turn this world into a dystopian hellhole than any other technology with the exception of nuclear weapons. There is already a long and recorded history of various proprietary programs being used to covertly surveil and exploit us, and these surveillance capabilities are being enhanced by machine learning microservices to profile and pigeonhole us in various ways. For this reason, I think that MLEs should be cognisant of the potentially destructive power that they wield. **I also think that free and open source (FOSS) machine learning development will very shortly become essential for the privacy and security of all mankind.**
+
+Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans. 
 
 
 ### :hammer_and_wrench: Languages and Tools

@@ -1,21 +1,19 @@
 ### Who am I?
-I'm a Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
+I'm a budding Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
 
 After studying mathematics for much of my early adult life, I decided that a career in academia wasn't for me, and that I'd rather build things, specifically complete machine learning systems that solve problems I care about. 
 
-My work generally adheres to the three-pipeline architecture: that is a feature, training, and inference pipeline. 
-
+My work generally adheres to the following three-pipeline architecture:  
 - The feature pipeline takes raw data, performs pre-processing steps, and produces training data.
 - The training pipeline trains multiple carefully selected models, complete with hyper-parameter tuning, and experiment tracking to make it easy to assess, report, and experiment with model performance, with eventual use of a model registry to save selected models.
 - Finally, the inference pipeline saves features and predictions to a feature store, and provides ways for predictions to be served to the end-users.
 
-
 ### Projects
 I'm currently building multiple free and open source end-to-end ML systems (all licenced under GPLv3):
-  - a batch ML service that provides hourly predictions for how many arrivals and departures will take place in Chicago's Divvy bike sharing system.
+  - a batch ML service that provides hourly predictions of how many arrivals and departures will take place in Chicago's Divvy bike sharing system.
   - a machine translation service that uses pretrained transformers (and I'd like to experiment with building one from scratch).
   - a vision project that identifies mushrooms using images, and proceeds to provide further information on said mushroom.
-  - a real-time service that is yet to be fully conceptualised.
+  - a real-time service that's yet to be fully conceptualised.
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.

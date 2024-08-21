@@ -3,11 +3,6 @@ I'm a budding Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and Br
 
 After studying mathematics for much of my early adult life, I decided that a career in academia wasn't for me, and that I'd rather build things, specifically, complete machine learning systems that solve problems I care about. 
 
-My work generally adheres to the following three-pipeline architecture:  
-- The feature pipeline takes raw data, performs various pre-processing procedures, and produces training data.
-- The training pipeline trains multiple carefully selected models, implements hyper-parameter tuning, and uses experiment tracking to make it easy to assess model performance. 
-- Finally, the inference pipeline saves features and predictions to a feature store, and provides ways for these predictions to be served to end-users.
-
 ### Projects
 I'm currently building multiple free and open source end-to-end ML systems (all licenced under GPLv3):
   - a batch ML service that provides hourly predictions of how many arrivals and departures will take place in Chicago's Divvy bike sharing system.

@@ -1,7 +1,7 @@
 ### Who am I?
 I'm a budding Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
 
-After studying mathematics for much of my early adult life, I decided that a career in academia wasn't for me, and that I'd rather build things, specifically complete machine learning systems that solve problems I care about. 
+After studying mathematics for much of my early adult life, I decided that a career in academia wasn't for me, and that I'd rather build things, specifically, complete machine learning systems that solve problems I care about. 
 
 My work generally adheres to the following three-pipeline architecture:  
 - The feature pipeline takes raw data, performs various pre-processing procedures, and produces training data.
@@ -17,7 +17,7 @@ I'm currently building multiple free and open source end-to-end ML systems (all 
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I also harbour a growing interest in embedded machine learning, as I'd like to be able to use my systems to extend the functionality of cameras, sensors, and other devices so that they can serve new purposes. For this reason, I am learning Rust development.
+- I also harbour a growing interest in embedded machine learning, as I'd like to be able to use my systems to extend the functionality of cameras, sensors, and other devices so that they can serve new purposes. For this reason, I am learning Rust.
 
 
 ### :hammer_and_wrench: Languages and Tools

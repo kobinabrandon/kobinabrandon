@@ -5,7 +5,7 @@ After studying mathematics for much of my early adult life, I decided that a car
 
 ### Projects
 I'm currently building multiple free and open source end-to-end ML systems (all licenced under GPLv3):
-  - a batch ML service that provides hourly predictions of how many arrivals and departures will take place in Chicago's Divvy bike sharing system.
+  - a batch scoring ML service that provides hourly predictions of how many arrivals and departures will take place in Chicago's Divvy bike sharing system.
   - a machine translation service that uses pretrained transformers (and I'd like to experiment with building one from scratch).
   - a vision project that identifies mushrooms using images, and proceeds to provide further information on said mushroom.
   - a real-time service that's yet to be fully conceptualised.

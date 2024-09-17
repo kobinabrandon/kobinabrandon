@@ -1,7 +1,7 @@
 ### Who am I?
 I'm a Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
 
-After studying mathematics for much of my early adult life, I decided that a career in academia wasn't for me, and that I'd rather build things, specifically, complete machine learning systems that solve problems I care about. 
+After studying Mathematics for much of my early adult life, culminating in doctoral studies at the University of Liverpool. Following a period of reflection, I decided to pursue more practical pursuits. Like many who share my background, this led me to take an interest in machine learning and data science. However, I soon learned that to achieve excellence in this field, it is not sufficient to simply use Jupyter notebooks to train models on static datasets. I resolved therefore to develop an end-to-end ethos by developing the skills of a bonafide software engineer, and applying myself to the creation of complete end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. 
 
 ### Projects
 I'm currently building multiple free and open source end-to-end ML systems (all licenced under GPLv3):

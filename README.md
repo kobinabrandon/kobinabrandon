@@ -1,16 +1,7 @@
 ### Who am I?
 I'm a Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
 
-After studying Mathematics for much of my early adult life, culminating in doctoral studies at the University of Liverpool. 
-
-Following a period of reflection, I decided to pursue more practical pursuits. Like many who share my background, this led me to take an interest in machine learning and data science. However, I soon learned that to achieve excellence in this field, it is not sufficient to simply use Jupyter notebooks to train models on static datasets. I resolved therefore to adopt an end-to-end ethos by developing the skills of a bonafide software engineer, and applying myself to the creation of complete end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. 
-
-### Projects
-I'm currently building multiple free and open source end-to-end ML systems (all licenced under GPLv3):
-  - a batch scoring ML service that provides hourly predictions of how many arrivals and departures will take place in Chicago's Divvy bike sharing system.
-  - a machine translation service that uses pretrained transformers (and I'd like to experiment with building one from scratch).
-  - a vision project that identifies mushrooms using images, and proceeds to provide further information on said mushroom.
-  - a real-time service that's yet to be fully conceptualised.
+After studying Mathematics for much of my early adult life, I decided to pursue more practical pursuits. Like many who share my background, this led me to take an interest in machine learning and data science. However, I soon learned that to achieve excellence in this field, it is not sufficient to simply use Jupyter notebooks to train models on static datasets. I resolved therefore to develop the skills of a bonafide software engineer, and apply myself to the creation of complete end-to-end ML systems (preferably trained on living datasets) that solve problems I care about. 
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.

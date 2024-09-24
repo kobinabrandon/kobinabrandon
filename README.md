@@ -1,7 +1,7 @@
 ### Who am I?
 I'm a Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
 
-After studying Mathematics for much of my early adult life, I decided to pursue more practical pursuits. Like many who share my background, this led me to take an interest in machine learning and data science. However, I soon learned that to achieve excellence in this field, it is not sufficient to simply use Jupyter notebooks to train models on static datasets. I resolved therefore to develop the skills of a bonafide software engineer, and apply myself to the creation of complete end-to-end ML systems (preferably trained on living datasets) that solve problems I care about. 
+After studying Mathematics for much of my early adult life, and like many who share my background, I took an interest in machine learning and data science. Now I build complete end-to-end ML systems (preferably trained on living datasets) that solve problems I care about. 
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.

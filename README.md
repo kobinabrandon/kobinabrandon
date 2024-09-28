@@ -5,7 +5,7 @@ After studying Mathematics for much of my early adult life, I took an interest i
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I also harbour a growing interest in embedded machine learning, as I'd like to be able to use my systems to extend the functionality of cameras, sensors, and other devices so that they can serve new purposes. For this reason, I am interested in adding a lower level compiled language to my skillset.
+- I also harbour a growing interest in embedded machine learning, as I'd like to be able to extend the functionality of cameras, sensors, and other devices so that they can serve new purposes. For this reason, I am interested in adding a lower level compiled language to my skillset.
 
 
 ### :hammer_and_wrench: Languages and Tools

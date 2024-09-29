@@ -10,7 +10,7 @@ After studying Mathematics for much of my early adult life, I took an interest i
 ### My Stance on Coding Assistants (Copilot, TabNine, Codeium, Cursor .etc).
 To put it simply, **I categorically refuse to use them**. 
 
-I believe that these tools pose a clear and present danger to anyone who wants to be a good programmer, and remain so. In their current and most popular configurations, these tools often suggest code before one has even had the opportunity to think independently, repeatedly tempting us to choose their suggestions over our own thoughts. 
+I believe that these tools pose a clear and present danger to anyone who wants to be a good programmer, and remain so. In their current and most popular configurations, these tools often suggest code before one has even had the opportunity to think independently, repeatedly encouraging us to choose their suggestions over our own thoughts. 
 
 I submit that over time, this pattern of behaviour will cause our skills to atrophy, creating feelings of discomfort in habitual users who are suddenly forced to do without them. I only use LLMs when I have specific questions about how functions within a given library work, and I'm completely opposed to giving them access to any of my codebases in order to receive suggestions from them. 
 

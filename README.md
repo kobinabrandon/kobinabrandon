@@ -3,16 +3,22 @@ I'm a Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British he
 
 After studying Mathematics for much of my early adult life, I now build end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. 
 
+
+### How I Work
+Because I genuinely enjoy programming, and take immense pride in whatever I'm able to create, I impose certain professional standards upon myself.
+
+- I commit to produce code that meets the highest standards of quality that my skills will allow at any given time, and to adopt standard software engineering best practices.
+
+- Whenever possible, I favour developing end-to-end machine learning applications. This means that I almost always opt for writing modular code in scripts as opposed to Jupyter notebooks. As a result, I try to keep my use of Jupyter notebooks to an absolute minimum, and only use them for EDA (exploratory data analysis), and to quickly tests of pieces of code.
+
+- I categorically refuse to use all AI coding assistants (Copilot, TabNine, Codeium, Cursor .etc). In their current and most popular configurations, these tools often suggest code before one has even had the opportunity to think independently, repeatedly encouraging us to choose their suggestions over our own thoughts. I submit that over time, this pattern of behaviour will cause our skills to atrophy, creating dependency and feelings of discomfort in habitual users who are suddenly forced to do without them.
+
+- I only use LLMs when I have specific questions about how functions within a given library work, or about language features. 
+
+
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
 - I also harbour a growing interest in embedded machine learning, as I'd like to be able to extend the functionality of cameras, sensors, and other devices so that they can serve new purposes. For this reason, I am interested in adding a lower level compiled language to my skillset.
-
-### My Stance on Coding Assistants (Copilot, TabNine, Codeium, Cursor .etc).
-To put it simply, **I categorically refuse to use them**. 
-
-I believe that these tools pose a clear and present danger to anyone who wants to be a good programmer, and remain so. In their current and most popular configurations, these tools often suggest code before one has even had the opportunity to think independently, repeatedly encouraging us to choose their suggestions over our own thoughts. 
-
-I submit that over time, this pattern of behaviour will cause our skills to atrophy, creating feelings of discomfort in habitual users who are suddenly forced to do without them. I only use LLMs when I have specific questions about how functions within a given library work, and I'm completely opposed to giving them access to any of my codebases in order to receive suggestions from them. 
 
 
 ### :hammer_and_wrench: Languages and Tools

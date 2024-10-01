@@ -1,11 +1,11 @@
 ### Who am I?
 I'm a Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
 
-After studying Mathematics for much of my early adult life, I now build end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. 
+After studying Mathematics for much of my early adult life, I now build end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. I genuinely enjoy programming, take immense pride in whatever I'm able to create, and am constantly looking for ways to expand my skills. 
 
 
 ### How I Work
-Because I genuinely enjoy programming, and take immense pride in whatever I'm able to create, I impose certain professional standards upon myself.
+I impose certain professional standards upon myself.
 
 - I commit to produce code that meets the highest standards of quality that my skills will allow at any given time, and to adopt standard software engineering best practices.
 

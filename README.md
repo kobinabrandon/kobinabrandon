@@ -21,7 +21,7 @@ I impose certain professional standards upon myself.
 - I enjoy deeply programming, and I have an interest in other aspects of software engineering, though machine learning engineering remains my focus. 
 - I also harbour an interest in embedded machine learning, and would like to one day explore that aspect of the field. 
 - I would like to add the Rust and Go to my language base. I like Rust because of its complex type system, friendly compiler, and the way it forces you
-  to write code in certain ways. I like Go because it's as friendly as Python, but is statically typed and much faster.
+  to write code in certain ways. I'm interested in Go because it's as friendly as Python, but is statically typed and much faster.
 - I'm learning and enjoying [Neovim](https://github.com/neovim/neovim), the chad editor, and I invite you to try it.
 
 

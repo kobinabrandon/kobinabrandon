@@ -5,23 +5,23 @@ After studying Mathematics for much of my early adult life, I now build end-to-e
 
 
 ### How I Work
-I impose certain professional standards upon myself.
+I impose certain standards upon myself.
 
-- I commit to produce code that meets the highest standards of quality that my skills will allow at any given time, and to adopt standard software engineering best practices.
+- I commit to produce code that meets the highest standards of quality that my skills will allow at any given time.
 
-- Whenever possible, I favour developing end-to-end machine learning applications. This means that I almost always opt for writing modular code in scripts as opposed to Jupyter notebooks. As a result, I try to keep my use of Jupyter notebooks to an absolute minimum, and only use them for EDA (exploratory data analysis), and to quickly tests of pieces of code.
+- Whenever possible, I favour developing end-to-end applications. This means that I almost always opt for writing modular code in scripts as opposed to Jupyter notebooks. As a result, I try to keep my use of Jupyter notebooks to an absolute minimum, and only use them for EDA (exploratory data analysis), and to quickly test bits of code.
 
 - I don't use AI coding assistants. In their current and most popular configurations, these tools often suggest code before one has even had the opportunity to think independently, repeatedly encouraging us to choose their suggestions over our own thoughts. I fear that over time, this pattern of behaviour may cause our skills to atrophy, creating dependency and feelings of discomfort in habitual users who are suddenly forced to do without them.
 
-- I only use LLMs when I have specific questions about how functions within a given library work, or about language features. 
+- I only use LLMs when I have specific questions about language features, hypothetical scenarios, programming concepts, or about how functions within a given library work. 
 
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I deeply enjoy programming, and I have an interest in other aspects of software engineering, though machine learning engineering remains my focus. 
-- I would like to add the Rust and Go to my language base. I like Rust because of its complex type system, friendly compiler, and the way it forces you
-  to write code in certain ways. I'm interested in Go because it's as friendly as Python, but is statically typed and much faster.
-- I'm learning and enjoying [Neovim](https://github.com/neovim/neovim), the chad editor, and I invite you to try it.
+- I deeply enjoy programming, and I have an interest in other fields of software engineering, though machine learning engineering remains my focus. 
+- I would like to add the Rust and Go to my language base. I like Rust because of its complex type system, friendly compiler, and the way it forces you to write code in certain ways.
+  I'm interested in Go because it's as friendly as Python, but is statically typed and much faster. 
+- I'm learning and enjoying [Neovim](https://github.com/neovim/neovim), and I invite you to try it.
 
 
 ### :hammer_and_wrench: Languages and Tools

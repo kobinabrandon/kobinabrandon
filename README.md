@@ -18,9 +18,7 @@ I impose certain standards upon myself.
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I deeply enjoy programming, and I have an interest in other fields of software engineering, though machine learning engineering remains my focus. 
-- I would like to add the Rust and Go to my language base. I like Rust because of its complex type system, friendly compiler, and the way it forces you to write code in certain ways.
-  I'm interested in Go because it's as friendly as Python, but is statically typed and much faster. 
+- I deeply enjoy programming, and I have an interest in other fields of software engineering (and languages other than Python), though machine learning engineering remains my focus. 
 - I'm learning and enjoying [Neovim](https://github.com/neovim/neovim), and I invite you to try it.
 
 

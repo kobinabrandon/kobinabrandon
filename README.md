@@ -1,5 +1,5 @@
 ### Who am I?
-I'm a Machine Learning Engineer (MLE) of Ghanaian, Sierra Leonean and British heritage. 
+I'm a Machine Learning Engineer of Ghanaian, Sierra Leonean and British heritage. 
 
 After studying Mathematics for much of my early adult life, I now build end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. I genuinely enjoy programming, take immense pride in whatever I'm able to create, and am constantly looking for ways to expand my skills. 
 

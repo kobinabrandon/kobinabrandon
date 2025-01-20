@@ -21,8 +21,8 @@ I recently built a [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-P
 ### Ongoing Projects
 I'm working on multiple projects:
 - A RAG web application of personal signifance to me (the repository is private).
-- An [system](https://github.com/kobinabrandon/automated-tyre-defect-detection) that discusses detects defects in tyres, a crucial operation for safeguarding modern tyre manufacturing pipelines.
-- A batch scoring [system](https://github.com/kobinabrandon/batch-systems-for-lyft-bikes) that provides hourly predictions of the number of arrivals and departures in all other cities were Lyft's has bikeshare systems. 
+- An [system](https://github.com/kobinabrandon/automated-tyre-defect-detection) that detects defective tyres, a crucial operation for safeguarding modern tyre manufacturing pipelines.
+- A batch scoring [system](https://github.com/kobinabrandon/batch-systems-for-lyft-bikes) that provides hourly predictions of the number of arrivals and departures in all every city were Lyft offers bikeshare services. 
 - A real-time system[system](https://github.com/kobinabrandon/real-time-systems-for-lyft-bikes) that checks the number of free bikes available at various locations within each bikeshare system currently run by Lyft.
 - A language translation [system](https://github.com/kobinabrandon/translate-with-transformers)
 

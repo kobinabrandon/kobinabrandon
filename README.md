@@ -15,18 +15,30 @@ I impose certain standards upon myself.
 
 - I only use LLMs when I have specific questions about language features, hypothetical scenarios, programming concepts, or about how functions within a given library work. 
 
+### Recently Deployed Projects
+I recently built a [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can try it out [here](https://melodious-wisdom-production-2431.up.railway.app/).
+
+### Ongoing Projects
+I'm working on multiple projects:
+- A RAG web application of personal signifance to me (the repository is private).
+- An [system](https://github.com/kobinabrandon/automated-tyre-defect-detection) that discusses detects defects in tyres, a crucial operation for safeguarding modern tyre manufacturing pipelines.
+- A batch scoring [system](https://github.com/kobinabrandon/batch-systems-for-lyft-bikes) that provides hourly predictions of the number of arrivals and departures in all other cities were Lyft's has bikeshare systems. 
+- A real-time system[system](https://github.com/kobinabrandon/real-time-systems-for-lyft-bikes) that checks the number of free bikes available at various locations within each bikeshare system currently run by Lyft.
+- A language translation [system](https://github.com/kobinabrandon/translate-with-transformers)
+
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I deeply enjoy programming, and I have an interest in other fields of software engineering (and languages other than Python), though machine learning engineering remains my focus. 
+- I deeply enjoy programming, and I have an interest in other fields of software engineering (and languages other than Python), though machine learning engineering remains my focus.
 - I'm learning and enjoying [Neovim](https://github.com/neovim/neovim), and I invite you to try it.
+- I'm slowly Rust and Go.
 
 
 ### :hammer_and_wrench: Languages and Tools
   <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/64847b55443a3aff37ec07b3802ab9d0bbaf3d5e/logos/neovim-mark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp; 
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosdownload.com%2Flogo%2Fscikit-learn-logo-big.png&f=1&nofb=1&ipt=dc8109c7270108f1039f351c0c19e173c3f752eb44eb1b66c3559e7a6605ed06&ipo=images" title="scikit-learn" alt="scikit-learn" width="55" height="40"/>&nbsp; 
+      <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x1024-lfuwmavf.png" title="Docker" alt="Docker" width="55" height="40"/>&nbsp; 
   <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4" title="Optuna" alt="Optuna" width="40" height="40"/>&nbsp; 
   <img src="https://www.comet.com/images/logo_comet_light.png" title="CometML" alt="Comet" width="60" height="40"/>&nbsp; 
   <img src="https://uploads-ssl.webflow.com/618ceae2a430c960c6f6b19a/61a77bd7a2e4345dc9c999ba_Hopsworks%20Icon%20Green.png" title="Hopsworks" alt="Hopsworks" width="35" height="35"/>&nbsp; 

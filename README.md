@@ -38,8 +38,9 @@ I'm working on multiple projects:
   <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/64847b55443a3aff37ec07b3802ab9d0bbaf3d5e/logos/neovim-mark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" title="Python" alt="Python" width="45" height="40"/>&nbsp;
   <img src="https://gophersource.com/img/mic-drop.png" title="Go" alt="40" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp; 
-      <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x1024-lfuwmavf.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp; 
+  <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x1024-lfuwmavf.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
+  <img src="https://blog.langchain.ac.cn/content/images/2024/03/LangChain-logo.png" title="Langchain" alt="40" width="230" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4" title="Optuna" alt="Optuna" width="40" height="40"/>&nbsp; 
   <img src="https://www.comet.com/images/logo_comet_light.png" title="CometML" alt="Comet" width="60" height="40"/>&nbsp; 
   <img src="https://uploads-ssl.webflow.com/618ceae2a430c960c6f6b19a/61a77bd7a2e4345dc9c999ba_Hopsworks%20Icon%20Green.png" title="Hopsworks" alt="Hopsworks" width="35" height="35"/>&nbsp; 

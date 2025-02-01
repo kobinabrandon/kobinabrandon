@@ -15,23 +15,23 @@ I impose certain standards upon myself.
 
 - I only use LLMs when I have specific questions about language features, hypothetical scenarios, programming concepts, or about how functions within a given library work. 
 
-### Recently Deployed Projects
-I recently built a [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can try it out [here](https://melodious-wisdom-production-2431.up.railway.app/).
-
-### Ongoing Projects
-I'm working on multiple projects:
-- A RAG web application of personal signifance to me (the repository is currently private).
+### Ongoing Open Source Projects
+- A [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. I have deployed it [here](https://melodious-wisdom-production-2431.up.railway.app/).
 - A computer vision [system](https://github.com/kobinabrandon/automated-tyre-defect-detection) that detects defective tyres, a crucial operation for safeguarding modern tyre manufacturing pipelines.
-- A batch scoring [system](https://github.com/kobinabrandon/batch-systems-for-lyft-bikes) that provides hourly predictions of the number of arrivals and departures in all every city were Lyft offers bikeshare services. 
-- A real-time [system](https://github.com/kobinabrandon/real-time-systems-for-lyft-bikes) that checks the number of free bikes available at various locations within each bikeshare system currently run by Lyft.
 - A language translation [system](https://github.com/kobinabrandon/translate-with-transformers)
 
-
+### Private Projects
+My private projects generally fall into one of four categories:
+- client work.
+- projects that are deeply personal.
+- projects that I intend to monetise.
+- projects that I simply don't want to have on display at the moment
+  
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
 - I want to be able to use languages other than Python when necessary, so I'm actively learning Go, and have started dipping my toes into Rust.
 - I have an interest in other fields of software engineering, though machine learning engineering remains my focus.
-- I'm learning and enjoying [Neovim](https://github.com/neovim/neovim), and I invite you to try it.
+- I enjoy [Neovim](https://github.com/neovim/neovim), and I invite you to try it.
 
 
 ### :hammer_and_wrench: Languages and Tools

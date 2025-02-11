@@ -17,7 +17,6 @@ I impose certain standards upon myself.
 
 ### Ongoing Open Source Projects
 - A [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. I have deployed it [here](https://melodious-wisdom-production-2431.up.railway.app/).
-- A retrieval augmented generation (RAG) [system](https://github.com/kobinabrandon/Nkrumah) that discusses the life and times of one of my personal heroes
 - A computer vision [system](https://github.com/kobinabrandon/automated-tyre-defect-detection) that detects defective tyres, a crucial operation for safeguarding modern tyre manufacturing pipelines.
 - A language translation [system](https://github.com/kobinabrandon/translate-with-transformers)
 

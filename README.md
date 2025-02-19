@@ -21,11 +21,8 @@ I impose certain standards upon myself.
 - A language translation [system](https://github.com/kobinabrandon/translate-with-transformers)
 
 ### Private Projects
-My private projects generally fall into one of three categories:
-- client work.
-- projects that I intend to monetise.
-- projects that I simply don't want to have on display at the moment
-  
+My most active private repositories generally revolve around code that I intend to monetise. My most ambitious project to date falls into this category, and I'm hoping that I'll make enough from it to support the costs of hosting. It will require me to acquire write code that extends well beyond machine learning.
+
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
 - I want to be able to use languages other than Python when necessary, so I'm actively learning Go, and have started dipping my toes into Rust.

@@ -19,9 +19,12 @@ I impose certain standards upon myself.
 - A [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. I have deployed it [here](https://melodious-wisdom-production-2431.up.railway.app/).
 - A computer vision [system](https://github.com/kobinabrandon/automated-tyre-defect-detection) that detects defective tyres, a crucial operation for safeguarding modern tyre manufacturing pipelines.
 - A language translation [system](https://github.com/kobinabrandon/translate-with-transformers)
+- A real-time [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that pertains to bikeshare systems operated by Lyft in various American cities. The work here is still in its earliest stages.
 
 ### Private Projects
-My most active private repositories generally revolve around code that I intend to monetise. My most ambitious project to date falls into this category, and I'm hoping that I'll make enough from it to support the costs of hosting. It will require me to acquire write code that extends well beyond machine learning.
+My most active private repositories generally revolve around code that I intend to monetise. 
+
+My most ambitious project to date falls into this category, and I'm hoping that I'll make enough from it to support the costs of hosting. It will require me to acquire write code that extends well beyond machine learning.
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.

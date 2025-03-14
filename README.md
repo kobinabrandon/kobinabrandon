@@ -1,5 +1,5 @@
 ### Who am I?
-I'm a Machine Learning Engineer of Ghanaian, Sierra Leonean and British heritage. 
+I'm a Applied Machine Learning Engineer of Ghanaian, Sierra Leonean and British heritage. 
 
 After studying Mathematics for much of my early adult life, I now build end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. I genuinely enjoy programming, take immense pride in whatever I'm able to create, and am constantly looking for ways to expand my skills. 
 
@@ -23,7 +23,7 @@ I impose certain standards upon myself.
 
 ### Private Projects
 My private repositories generally revolve around code that I intend to monetise. 
-One of these is my most ambitious project to date, and I'm hoping that I'll make enough from it to support the costs of hosting. It will require me to write a lot of code that extends well beyond machine learning.
+One of these is my most ambitious project to date, and I'm hoping that I'll make enough from it to support the costs of hosting. It will require me to write code in both Python and Go, and do some heavy web-development with HTMX. The completion of this project is currently my primary focus.
 
 ### Other Interests
 - Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.

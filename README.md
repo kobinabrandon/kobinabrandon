@@ -24,10 +24,10 @@ My private repositories generally revolve around code that I intend to monetise.
 One of these is my most ambitious project to date, and while it's not exactly commercial in nature, I'm hoping that I'll make enough from it to support the costs of hosting. The project will require me to do a lot of NLP work along with heavy web-development with Go and HTMX, and it is currently my primary focus.
 
 ### Other Interests
-- Beyond my personal professional goals, I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I have interests in other fields of software engineering, though applied machine learning work remains my focus.
-- Though Python is my primary language, I'm very interested in Go, and have started dipping my toes into Rust.
-- I am a huge fan of [Neovim](https://github.com/neovim/neovim), and I invite you to try it.
+- I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
+- I would like to get into other fields of software engineering, though applied machine learning work remains my focus.
+- I'm have a growing interest in Go, and have started dipping my toes into Rust.
+- I've become a huge fan of [Neovim](https://github.com/neovim/neovim).
 
 ### :hammer_and_wrench: Languages and Libraries
   <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" title="Python" alt="Python" width="45" height="40"/>&nbsp;
@@ -35,13 +35,14 @@ One of these is my most ambitious project to date, and while it's not exactly co
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp; 
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x1024-lfuwmavf.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
   <img src="https://blog.langchain.ac.cn/content/images/2024/03/LangChain-logo.png" title="Langchain" alt="40" width="230" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4" title="Optuna" alt="Optuna" width="40" height="40"/>&nbsp; 
+  <img src="https://miro.medium.com/v2/resize:fit:793/0*RTW5byy6eH_eSWTP.png" title="ChromaDB" alt="chroma" width="60" height="40"/>&nbsp;
   <img src="https://www.comet.com/images/logo_comet_light.png" title="CometML" alt="Comet" width="60" height="40"/>&nbsp; 
   <img src="https://uploads-ssl.webflow.com/618ceae2a430c960c6f6b19a/61a77bd7a2e4345dc9c999ba_Hopsworks%20Icon%20Green.png" title="Hopsworks" alt="Hopsworks" width="35" height="35"/>&nbsp; 
+  <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4" title="Optuna" alt="Optuna" width="40" height="40"/>&nbsp; 
 
 </div>
 
-### :hammer_and_wrench: Development Environments & Tools
+### :hammer_and_wrench: Development Environment & Tools
   <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/64847b55443a3aff37ec07b3802ab9d0bbaf3d5e/logos/neovim-mark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" title="Arch Linux" alt="Arch" width="40" height="40"/>&nbsp;
-    <img src="https://1.bp.blogspot.com/-4uQjU4OmCD8/XcUxqkNXhrI/AAAAAAAADmg/pBRDk3x4Se8wPgdn2NXnPA8pGrFGr1Y0wCLcBGAsYHQ/s1600/1920px-Tmux_logo.svg.png" title="Tmux" alt="tmux" width="130" height="40"/>&nbsp;
+  <img src="https://1.bp.blogspot.com/-4uQjU4OmCD8/XcUxqkNXhrI/AAAAAAAADmg/pBRDk3x4Se8wPgdn2NXnPA8pGrFGr1Y0wCLcBGAsYHQ/s1600/1920px-Tmux_logo.svg.png" title="Tmux" alt="tmux" width="130" height="40"/>&nbsp;

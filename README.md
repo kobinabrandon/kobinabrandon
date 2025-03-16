@@ -21,12 +21,12 @@ I impose certain standards upon myself.
 
 ### Private Projects
 My private repositories generally revolve around code that I intend to monetise. 
-One of these is my most ambitious project to date, and while it's not exactly commercial in nature, I'm hoping that I'll make enough from it to support the costs of hosting. The project will require me to do a lot of NLP work along with heavy web-development with Go and HTMX, and it is currently my primary focus.
+One of these is my most ambitious project to date, and while it's not exactly commercial in nature, I hope that it'll make enough money to cover hosting and inference costs. The project will require me to do a lot of NLP work in Python, and heavy web-development with Go and HTMX, and it's currently my primary focus.
 
 ### Other Interests
-- I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I want to get into other fields of software engineering, though applied machine learning work remains my focus.
-- I am getting into Go in a big way, and have started dipping my toes into Rust.
+- I'd like to contribute in some small way to the technological and economic advancement of my fellow Africans.
+- I want to get into other fields of software engineering if I can, though applied machine learning work remains my focus.
+- I want to become highly proficient in Go, and have started dipping my toes into Rust.
 - I've become a huge fan of [Neovim](https://github.com/neovim/neovim).
 
 ### :hammer_and_wrench: Languages and Libraries

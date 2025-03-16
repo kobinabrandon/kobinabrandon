@@ -25,8 +25,8 @@ One of these is my most ambitious project to date, and while it's not exactly co
 
 ### Other Interests
 - I would like to somehow apply my skills to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I would like to get into other fields of software engineering, though applied machine learning work remains my focus.
-- I'm have a growing interest in Go, and have started dipping my toes into Rust.
+- I want to get into other fields of software engineering, though applied machine learning work remains my focus.
+- I am getting into Go in a big way, and have started dipping my toes into Rust.
 - I've become a huge fan of [Neovim](https://github.com/neovim/neovim).
 
 ### :hammer_and_wrench: Languages and Libraries

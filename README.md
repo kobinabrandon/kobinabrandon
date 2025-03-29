@@ -28,7 +28,7 @@ One of these is my most ambitious project to date, and while it's not exactly co
 - I want to get into other fields of software engineering if I can, though applied machine learning work remains my focus.
 - I want to become highly proficient in Go, and have started dipping my toes into Rust.
 - I've become a huge fan of [Neovim](https://github.com/neovim/neovim).
-- I'm disinterested (and increasingly disturbed by) systems that are intended to render skilled human labour obsolete. I believe that there is an orchestrated effort to use this technology to take away the leverage of working people, and this campaign is getting more aggressive every day.
+- I'm disinterested in (and increasingly disturbed by) systems that are intended to render skilled human labour obsolete. I believe that there is an orchestrated effort to use machine learning to take away the leverage of working people, and this campaign is getting more aggressive every day.
 
 
 ### :hammer_and_wrench: Languages and Libraries

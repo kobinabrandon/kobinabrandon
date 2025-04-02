@@ -25,7 +25,6 @@ There tend to me rather ambitious projects to date, that may well become commerc
 
 - The first of these is an application of LLMs to a matter that is of personal significance to me. I hope that it'll make enough money to cover hosting and inference costs. The project will require me to do a lot of NLP work in Python, and heavy web-development with Go and HTMX, and it's currently my primary focus.
 
-- The second is a long-term experimental software engineering project aimed at addressing the fraught land registry systems in Ghana and other African countries.
 
 ### Other Interests
 - I'd like to contribute in some small way to the technological and economic advancement of my fellow Africans.

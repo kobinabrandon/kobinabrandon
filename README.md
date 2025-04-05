@@ -14,18 +14,17 @@ I impose certain standards upon myself.
 ### Deployed Open Source Projects
 - A [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with it [here](https://melodious-wisdom-production-2431.up.railway.app/).
 
-### Open Source Projects in (somewhat) Active Development
-- An experimental real-time [system](https://github.com/kobinabrandon/real-time-systems-for-lyft-bikes) for all of Lyft's bikeshare platforms. It's in its infancy.
 
 ### Archived Open Source Projects
 These are projects that I have deprioritised (usually in favour of something more interesting). They will be finished eventually:
+- An experimental real-time [system](https://github.com/kobinabrandon/real-time-systems-for-lyft-bikes) for all of Lyft's bikeshare platforms. It's in its infancy.
 - A computer vision [system](https://github.com/kobinabrandon/automated-tyre-defect-detection) that detects defective tyres, a crucial operation for safeguarding modern tyre manufacturing pipelines.
 - A text-based [translator](https://github.com/kobinabrandon/translate-with-transformers). 
 
 
 ### Other Interests
 - I'd like to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- Besides Python, I am also very interested Rust and Go, and I intend to become very proficient in them. I'm currently challenging myself to port one of my private projects from Python to Rust.
+- I am  very interested in Rust and Go, and I intend to become very proficient in them. I'm currently challenging myself to port one of my private projects from Python to Rust.
 - I'm disinterested in (and increasingly disturbed by) systems that are intended to render skilled human labour obsolete. I believe that there is an orchestrated effort to use machine learning to take away the leverage of working people, and this campaign is getting more aggressive every day.
 
 ### Programming Languages

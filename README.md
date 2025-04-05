@@ -6,37 +6,34 @@ After studying Mathematics for much of my early adult life, I now build end-to-e
 ### How I Work
 I impose certain standards upon myself.
 - I commit to produce code that meets the highest standards of quality that my skills will allow at any given time.
-- Whenever possible, I favour developing end-to-end applications. This means that I almost always opt for writing modular code in scripts as opposed to Jupyter notebooks. As a result, I try to keep my use of Jupyter notebooks to an absolute minimum, and only use them for EDA (exploratory data analysis), and to quickly test bits of code.
-- I don't use AI coding assistants. In their current and most popular configurations, these tools often suggest code before one has even had the opportunity to think independently, repeatedly encouraging us to choose their suggestions over our own thoughts. I fear that over time, this pattern of behaviour may cause our skills to atrophy, creating dependency and feelings of discomfort in habitual users who are suddenly forced to do without them.
-
 - I only use LLMs when I have specific questions about language features, hypothetical scenarios, programming concepts, or about how functions within a given library work. 
+- Whenever possible, I favour developing end-to-end applications. This means that I almost always opt for writing modular code in scripts as opposed to Jupyter notebooks. I try to restrict my use of notebooks to EDA.
+- I don't use AI coding assistants. In their current and most popular configurations, these tools often suggest code before one has even had the opportunity to think independently, repeatedly encouraging us to choose their suggestions over our own thoughts. I fear that over time, this pattern of behaviour may cause our skills to atrophy.
+
 
 ### Deployed Open Source Projects
 - A [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with it [here](https://melodious-wisdom-production-2431.up.railway.app/).
 
 ### Open Source Projects in (somewhat) Active Development
+- An experimental real-time [system](https://github.com/kobinabrandon/real-time-systems-for-lyft-bikes) for all of Lyft's bikeshare platforms. It's in its infancy.
+
+### Archived Open Source Projects
+These are projects that I have deprioritised (usually in favour of something more interesting). They will be finished eventually:
 - A computer vision [system](https://github.com/kobinabrandon/automated-tyre-defect-detection) that detects defective tyres, a crucial operation for safeguarding modern tyre manufacturing pipelines.
-- A text-based language translation [system](https://github.com/kobinabrandon/translate-with-transformers). 
-- A real-time [system](https://github.com/kobinabrandon/real-time-systems-for-lyft-bikes) that pertains to bikeshare platforms operated by Lyft in various American cities. The work here is still in its infancy.
-
-### Private Projects
-My private repositories generally revolve around code that I intend to monetise. 
-There tend to me rather ambitious projects to date, that may well become commercial in nature. 
-
-- The first of these is an application of LLMs to a matter that is of personal significance to me. I hope that it'll make enough money to cover hosting and inference costs. The project will require me to do a lot of NLP work in Python, and heavy web-development with Go and HTMX, and it's currently my primary focus.
+- A text-based [translator](https://github.com/kobinabrandon/translate-with-transformers). 
 
 
 ### Other Interests
 - I'd like to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I want to get into other fields of software engineering if I can, though applied machine learning work remains my focus.
-- I want to become highly proficient in Go, and have started dipping my toes into Rust.
-- I've become a huge fan of [Neovim](https://github.com/neovim/neovim).
+- Besides Python, I am also very interested Rust and Go, and I intend to become very proficient in them. I'm currently challenging myself to port one of my private projects from Python to Rust.
 - I'm disinterested in (and increasingly disturbed by) systems that are intended to render skilled human labour obsolete. I believe that there is an orchestrated effort to use machine learning to take away the leverage of working people, and this campaign is getting more aggressive every day.
 
-
-### :hammer_and_wrench: Languages and Libraries
+### Programming Languages
   <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" title="Python" alt="Python" width="45" height="40"/>&nbsp;
-  <img src="https://lh3.googleusercontent.com/proxy/Ofs1hx1JNYmL2GtnNkUKwkwMvof6inKml1d-PPNIp9kkCFrZ0C5doDn8nL5Tr0iQiagTgTOrdkewXvGUpbdfUhAMfAdvFMEyVhOaGCOo3FVDsoi7t3u_kDI8oZ44s41vzwbh5BdacpPUsVQkRm0ErU23ZQq6T2UmEWw=w1200-h630-p-k-no-nu" title="Go" alt="40" width="100" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/rust-icon-1024x1023-gob69ubr.png" title="Rust" alt="40" width="45" height="40"/>&nbsp;
+  <img src="https://lh3.googleusercontent.com/proxy/Ofs1hx1JNYmL2GtnNkUKwkwMvof6inKml1d-PPNIp9kkCFrZ0C5doDn8nL5Tr0iQiagTgTOrdkewXvGUpbdfUhAMfAdvFMEyVhOaGCOo3FVDsoi7t3u_kDI8oZ44s41vzwbh5BdacpPUsVQkRm0ErU23ZQq6T2UmEWw=w1200-h630-p-k-no-nu" title="Go" alt="40" width="100" height="36"/>&nbsp;
+
+### :hammer_and_wrench: Libraries & Frameworks
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp; 
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x1024-lfuwmavf.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
   <img src="https://blog.langchain.ac.cn/content/images/2024/03/LangChain-logo.png" title="Langchain" alt="40" width="230" height="40"/>&nbsp;

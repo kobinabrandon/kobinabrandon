@@ -10,7 +10,7 @@ I impose certain standards upon myself.
 - I don't use AI coding assistants in my editor. These tools often suggest code before one has even had the opportunity to think independently, repeatedly encouraging us to choose their suggestions over our own thoughts. I fear that over time, this pattern of behaviour may cause our skills to atrophy.
 
 ### Active Projects
-- I'm working on a RAG application based that uses famous works that are in the public domain. The [original](https://github.com/kobinabrandon/giants-core) is in Python, and though it isn't complete yet, I'm actively writing a Rust [port](https://github.com/kobinabrandon/giants-of-old) which I hope, will be more featureful.
+- I'm working on a RAG application based on famous works that are in the public domain. The [original](https://github.com/kobinabrandon/giants-core) is in Python, and though it isn't complete yet, I'm actively writing a Rust [port](https://github.com/kobinabrandon/giants-of-old) which I hope, will be more featureful.
 
 ### Deployed Open Source Projects
 - A [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with it [here](https://melodious-wisdom-production-2431.up.railway.app/).

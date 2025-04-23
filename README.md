@@ -3,18 +3,11 @@ I'm a Applied Machine Learning Engineer of Ghanaian, Sierra Leonean and British 
 
 After studying Mathematics for much of my early adult life, I now build end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. I genuinely enjoy programming, take immense pride in whatever I'm able to create, and am constantly looking for ways to expand my skills. 
 
-### How I Work
-I impose certain standards upon myself.
-- I only use LLMs when I have specific questions about language features, hypothetical scenarios, programming concepts, or about how functions within a given library work. 
-- Whenever possible, I'd prefer to build end-to-end applications. This means that I almost always opt for writing modular code in scripts as opposed to Jupyter notebooks. I try to restrict my use of notebooks to EDA.
-- I don't use AI coding assistants in my editor. These tools often suggest code before one has even had the opportunity to think independently, repeatedly encouraging us to choose their suggestions over our own thoughts. I fear that over time, this pattern of behaviour may cause our skills to atrophy.
-
 ### Active Projects
 - I'm working on a RAG application based on famous works that are in the public domain. The [original](https://github.com/kobinabrandon/giants-core) is in Python, and though it isn't complete yet, I'm actively writing a Rust [port](https://github.com/kobinabrandon/giants-of-old) which I hope, will be more featureful.
 
 ### Deployed Open Source Projects
 - A [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with it [here](https://melodious-wisdom-production-2431.up.railway.app/).
-
 
 ### Archived Open Source Projects
 These are projects that I have deprioritised (usually in favour of something more interesting). They will be finished eventually:
@@ -24,8 +17,8 @@ These are projects that I have deprioritised (usually in favour of something mor
 
 
 ### Other Interests
+- I'm increasingly enjoying Rust and (to a lesser extent) Go, and I intend to become very proficient in them. 
 - I'd like to contribute in some small way to the technological and economic advancement of my fellow Africans.
-- I am seriously getting into Rust and (to a lesser extent) Go, and I intend to become very proficient in them. 
 
 ### Programming Languages
   <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" title="Python" alt="Python" width="45" height="40"/>&nbsp;

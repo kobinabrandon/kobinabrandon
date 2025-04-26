@@ -1,7 +1,7 @@
 ### Who am I?
 I'm a Applied Machine Learning Engineer of Ghanaian, Sierra Leonean and British heritage. 
-
-After studying Mathematics for much of my early adult life, I now build end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. I genuinely enjoy programming, take immense pride in whatever I'm able to create, and am constantly looking for ways to expand my skills. 
+I studied Mathematics for much of my early adult life, culminating in doctoral studies at the University of Liverpool. 
+I now build end-to-end machine learning systems (preferably trained on living datasets) that solve problems I care about. I genuinely enjoy programming, take immense pride in whatever I'm able to create, and am constantly looking for ways to expand my skills. 
 
 ### Active Projects
 - I'm working on a RAG application based on famous works that are in the public domain. The [original](https://github.com/kobinabrandon/giants-core) is in Python, and though it isn't complete yet, I'm actively writing a Rust [port](https://github.com/kobinabrandon/giants-of-old) which I hope, will be more featureful.

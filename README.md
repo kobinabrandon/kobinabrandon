@@ -6,7 +6,7 @@ I studied Mathematics for much of my early adult life, culminating in doctoral s
 ### Why Then Is My Github So Empty?
 I've moved [all of my repositories](https://codeberg.org/kobinabrandon?tab=repositories) to Codeberg (a community-run git hosting service owned a German non-profit). 
 
-I'm not comfortable with Microsoft's use of open source code on Github to train the model behind Github Copilot without our permission, and I believe that in doing so, they've gone against the spirit of the copyleft open source licences (which I am a fan of). I believe that this is a deeply unethical practice, and that vendor lock-in is being used to hold developers hostage on Github while Microsoft work as hard as they can to automate our job away under the guise of making it "easier" - and profiting from developers' increasing dependency on LLMs in the process.
+I'm not comfortable with Microsoft's use of open source code on Github to train the model behind Github Copilot without our permission, and I believe that in doing so, they've gone against the spirit of the copyleft open source licences. I believe that this is a deeply unethical practice, and that vendor lock-in is being used to hold developers hostage on Github while Microsoft work as hard as they can to automate our job away under the guise of making it "easier" - and profiting from developers' increasing dependency on LLMs in the process.
 
 ### Why is this account still here then?
 - I will be using this account to contribute to open source projects that are hosted on Github.

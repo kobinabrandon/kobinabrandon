@@ -9,7 +9,7 @@ I've moved [all of my repositories](https://codeberg.org/kobinabrandon?tab=repos
 I'm not comfortable with Microsoft's use of open source code on Github to train the model behind Github Copilot without our permission, and I believe that in doing so, they've gone against the spirit of the copyleft open source licences (which I am a fan of). I believe that this is a deeply unethical practice, and that vendor lock-in is being used to hold developers hostage on Github while Microsoft work as hard as they can to automate our job away under the guise of making it "easier" - and profiting from developers' increasing dependency on LLMs in the process.
 
 ### Why is this account still here then?
-(1) I will be using this account to contribute to open source projects that are hosted on Github.
-(2) I am keeping one of my projects here. It's an end-to-end ML [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with it [here](https://melodious-wisdom-production-2431.up.railway.app/). 
+- I will be using this account to contribute to open source projects that are hosted on Github.
+- I am keeping one of my projects here. It's an end-to-end ML [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with it [here](https://melodious-wisdom-production-2431.up.railway.app/). 
 
 I'm keeping this project on Github because it has a number of forks (all of which are currently inactive), and deleting it would remove the evidence that I am its original author. Active development of the system will continue on Codeberg.

@@ -1,11 +1,7 @@
-### Who am I?
-I'm a Applied Machine Learning Engineer of Ghanaian, Sierra Leonean and British heritage. 
+Hi there.
 
-### Why Then Is My Github So Empty?
-I've moved [all of my repositories](https://codeberg.org/kobinabrandon?tab=repositories) to Codeberg. 
+Because I don't want my personal projects to contribute to the training of Github's copilot, I've moved [all of my repositories](https://codeberg.org/kobinabrandon?tab=repositories) to Codeberg, and will use this account to contribute to open source projects that are hosted on Github. 
 
-I'm not comfortable with Microsoft's use of open source code on Github to train the model behind Github Copilot without permission, and I believe that in doing so, they've gone against the spirit of the copyleft open source licences. I believe that this is a deeply unethical practice, and that vendor lock-in is being used to hold developers hostage on Github while Microsoft work as hard as they can to automate parts of development away under the guise of making it "easier" - and profiting from developers' increasing dependency on LLMs in the process.
+I am however keeping an "archived" version of one of my projects here. 
 
-### Why is this account still here?
-- I will use this account to contribute to open source projects that are hosted on Github. I'd rather not have any of my code here, but I can't do anything about the decisions others make about where they host their repos, and I'll still want to contribute to certain projects in the future.
-- I am keeping one of my projects here. It's an end-to-end ML [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with it [here](https://melodious-wisdom-production-2431.up.railway.app/). Though it's a modest personal project, it has a number of forks (all of which are currently inactive). Active development of the system will continue on Codeberg.
+It's an end-to-end ML [system](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor) that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with it [here](https://melodious-wisdom-production-2431.up.railway.app/). Though it's a modest personal project, it has a number of forks (all of which are currently inactive). Active development of the system will continue on Codeberg.

@@ -1,9 +1,8 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://nogithub.codeberg.page">
 </br>
+<h2 style="color: #e5b01c" align="center">Nearly all my repositories have been migrated to <a href="https://app.radicle.xyz/nodes/kobina.seednode.xyz">Radicle</a>!</h2>
 
-<h2 style="color: #e5b01c" align="center">Nearly all my repositories have been migrated to Radicle</a>!</h2>
-</br>
+I am however keeping a deprecated, and archived version of one of my MLOps projects [here](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor). It's an end-to-end ML system that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with the app [here](https://melodious-wisdom-production-2431.up.railway.app/). 
 
-I am however keeping an archived version of one of my MLOps projects [here](https://github.com/kobinabrandon/Hourly-Divvy-Trip-Predictor). It's an end-to-end ML system that provides hourly predictions of the number of arrivals and departures that take place at thousands of locations across Lyft's bikeshare system in Chicago. You can interact with the app [here](https://melodious-wisdom-production-2431.up.railway.app/). The version of the project here on Github is deprecated, and the project is under active development on my personal [Radicle](radicle.xyz) node.
-
+This project, and the rest of my work, are under active development on my personal Radicle [node](https://app.radicle.xyz/nodes/kobina.seednode.xyz).
 I may use this account to contribute to open source projects that are hosted here, or to do work for organisations that require me to use Github. 
